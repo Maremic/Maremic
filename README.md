@@ -5,7 +5,7 @@
 <h3>
 - 👀 I’m interested:
 </h3>
-        in Zen and Taoism, Cats, Tea, Juggle, Code
+        in Zen and Taoism, Cats, Tea, Juggle, Code, Minimalist Lifestyle
         
 <h3>
 - 🌱I’m currently learning:
