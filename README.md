@@ -20,15 +20,14 @@
         </ul>
 		
         
-		oh.. I did some small games from tutorials, get basic concepts of programming,
-		I love to learn more and in future I will post my works done here. ^^
+		Be happy for this moment. This moment is your life. 
+							--Omar Khayyam
         
 <h3>
 - 💞️I’m hoping for:
 </h3>
         <p>
-		to get a job in programming, or some IT, I am very curious about CS, but well
-        at school I choosed the way of artist, stupid, young_me !
+		to get a job in programming, or some IT, I am very curious about CS, but at school I choosed the way of artist.
 		</p>
         
 <p>
