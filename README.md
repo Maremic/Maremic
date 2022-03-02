@@ -11,7 +11,8 @@
 - 🌱I’m currently learning:
 </h3>
 		<ul>
-        	<li>Python,</li>
+        	<li>PHP</li>
+		<li>Laravel</li>
         	<li>JScript,</li>
         	<li>HTML,</li>
         	<li>SCSS,</li>
